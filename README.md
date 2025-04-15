@@ -1,30 +1,30 @@
-<h1 align="center">O Caminho do Código</h1>
-<p align="center">👑 Construindo soluções com propósito, estrutura e inteligência</p>
+<h1 align="center">The Way of Code</h1>
+<p align="center">👑 Building solutions with purpose, structure, and intelligence</p>
 
 ---
 
-## 👋🏼 Sobre mim
+## 👋🏼 About Me
 
-Olá! Meu nome é **Jhonny Marcelo de Oliveira**, sou Engenheiro de Telecomunicações com especialização em Redes e Serviços, certificado pela **Nokia (NRS I)** e atualmente em transição para a área de **Dados, Inteligência Artificial e Automação**.
+Hi! My name is **Jhonny Marcelo de Oliveira**, I'm a Telecommunications Engineer with a specialization in Networks and Telecom Services, certified by **Nokia (NRS I)**. I’m currently transitioning into the fields of **Data, Artificial Intelligence, and Automation**.
 
-> Acredito que a excelência vem da ordem, e que grandes soluções nascem de mentes bem treinadas.
+> I believe excellence comes from order — and great solutions are born from well-trained minds.
 
-Sou apaixonado por **estratégia, tecnologia e crescimento pessoal**, e estou estruturando este repositório como parte da minha jornada de aprendizado e impacto profissional.
-
----
-
-## 🧠 Áreas de Interesse
-
-- 📡 Redes IP & Engenharia de Telecom
-- 🤖 Automação com Python e APIs
-- 📊 Dados, BI e Power BI
-- 🧬 Inteligência Artificial Aplicada
-- ⚙️ Produtividade e Otimização de Processos
-- 🏛️ Filosofia aplicada ao crescimento pessoal
+I'm passionate about **strategy, technology, and personal growth**, and I'm building this repository as part of my learning journey and long-term impact.
 
 ---
 
-## 🚀 Tecnologias que estou estudando
+## 🧠 Areas of Interest
+
+- 📡 IP Networks & Telecom Engineering  
+- 🤖 Automation with Python and APIs  
+- 📊 Data, BI and Power BI  
+- 🧬 Applied Artificial Intelligence  
+- ⚙️ Productivity and Process Optimization  
+- 🏛️ Philosophy applied to personal growth  
+
+---
+
+## 🚀 Technologies I'm Studying
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
@@ -35,36 +35,37 @@ Sou apaixonado por **estratégia, tecnologia e crescimento pessoal**, e estou es
 
 ---
 
-## 📂 Portfólio
+## 📂 Portfolio
 
-Aqui você encontrará projetos construídos durante meus estudos e iniciativas pessoais.
+Here you’ll find projects built during my studies and personal initiatives.
 
-| Projeto | Descrição | Tecnologias |
-|--------|-----------|-------------|
-| **Gerador de Orçamento com Python** | Automatiza o cálculo e estruturação de orçamentos personalizados | Python, Pandas, Streamlit |
-| **Dashboards com Power BI** | Análises visuais com dados simulados e insights automatizados | Power BI, DAX |
-| **Automação de Rotinas com Excel/VBA** | Scripts para geração de configurações de rede e documentação técnica | VBA, Excel |
-| **Em construção** | Em breve: Agentes de IA com automações via Make/N8N | Python, API, Make |
-
----
-
-## 📈 Em breve...
-
-- 📚 Projetos avançados com Python, APIs e automações
-- 🔎 Modelos preditivos e análise de dados
-- 🤖 Agentes de IA aplicados à produtividade
-- 📦 MiniSaaS com foco em soluções práticas
+| Project | Description | Technologies |
+|--------|-------------|--------------|
+| **Budget Generator in Python** | Automates budget calculations and structuring | Python, Pandas, Streamlit |
+| **Dashboards with Power BI** | Visual analysis using simulated data and automated insights | Power BI, DAX |
+| **Routine Automation with Excel/VBA** | Script generation for network configs and documentation | VBA, Excel |
+| **Coming soon** | AI agents with automation via Make/N8N | Python, API, Make |
 
 ---
 
-## 📬 Contato
+## 📈 Coming Soon...
 
-- 📧 Email: jhonnymarceloo@gmail.com
+- 📚 Advanced projects with Python, APIs, and automation  
+- 🔎 Predictive models and data analysis  
+- 🤖 AI agents focused on productivity  
+- 📦 MiniSaaS tools for practical solutions  
+
+---
+
+## 📬 Contact
+
+- 📧 Email: jhonnymarceloo@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/jhonny-oliveira-247826114/)
 
 ---
 
 <p align="center">
-  “Ordem é liberdade. Inteligência é serviço. Código é poder.”  
-  <br/> – O Caminho do Rei 👑
+  <em>"Order is freedom. Intelligence is service. Code is power."</em><br/>
+  <em>"First say to yourself what you would be; and then do what you have to do."</em><br/>
+  <strong>— Epictetus</strong>
 </p>
